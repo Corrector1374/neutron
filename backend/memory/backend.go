@@ -2,9 +2,9 @@
 package memory
 
 import (
-	"github.com/emersion/neutron/backend"
-	"github.com/emersion/neutron/backend/util"
-	"github.com/emersion/neutron/backend/events"
+	"github.com/Corrector1374/neutron/backend"
+	"github.com/Corrector1374/neutron/backend/util"
+	"github.com/Corrector1374/neutron/backend/events"
 )
 
 func Use(bkd *backend.Backend) {

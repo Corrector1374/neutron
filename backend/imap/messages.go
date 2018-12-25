@@ -7,11 +7,11 @@ import (
 	"net/mail"
 	"time"
 
-	"github.com/emersion/go-imap"
+	"github.com/Corrector1374/go-imap"
 
-	"github.com/emersion/neutron/backend"
-	"github.com/emersion/neutron/backend/memory"
-	"github.com/emersion/neutron/backend/util/textproto"
+	"github.com/Corrector1374/neutron/backend"
+	"github.com/Corrector1374/neutron/backend/memory"
+	"github.com/Corrector1374/neutron/backend/util/textproto"
 )
 
 type updatableAttachments interface {

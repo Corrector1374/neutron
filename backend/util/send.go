@@ -3,7 +3,7 @@ package util
 import (
 	"time"
 
-	"github.com/emersion/neutron/backend"
+	"github.com/Corrector1374/neutron/backend"
 )
 
 // A SendBackend that does nothing.

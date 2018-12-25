@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/emersion/go-imap"
-	imapidle "github.com/emersion/go-imap-idle"
-	imapquota "github.com/emersion/go-imap-quota"
-	imapclient "github.com/emersion/go-imap/client"
+	"github.com/Corrector1374/go-imap"
+	imapidle "github.com/Corrector1374/go-imap-idle"
+	imapquota "github.com/Corrector1374/go-imap-quota"
+	imapclient "github.com/Corrector1374/go-imap/client"
 )
 
 type idleClient struct{ *imapidle.Client }

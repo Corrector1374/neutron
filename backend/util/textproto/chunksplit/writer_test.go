@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/emersion/neutron/backend/util/textproto/chunksplit"
+	"github.com/Corrector1374/neutron/backend/util/textproto/chunksplit"
 )
 
 func TestWriter(t *testing.T) {

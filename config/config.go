@@ -2,9 +2,9 @@
 package config
 
 import (
-	"github.com/emersion/neutron/backend/imap"
-	"github.com/emersion/neutron/backend/smtp"
-	"github.com/emersion/neutron/backend/disk"
+	"github.com/Corrector1374/neutron/backend/imap"
+	"github.com/Corrector1374/neutron/backend/smtp"
+	"github.com/Corrector1374/neutron/backend/disk"
 )
 
 // Configuration for all backends.

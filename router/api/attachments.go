@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 
 	"gopkg.in/macaron.v1"
-	"github.com/emersion/neutron/backend"
+	"github.com/Corrector1374/neutron/backend"
 )
 
 func (api *Api) GetAttachment(ctx *macaron.Context) (b []byte, err error) {

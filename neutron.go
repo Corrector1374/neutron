@@ -6,13 +6,13 @@ import (
 
 	"gopkg.in/macaron.v1"
 
-	"github.com/emersion/neutron/config"
-	"github.com/emersion/neutron/backend"
-	"github.com/emersion/neutron/backend/memory"
-	"github.com/emersion/neutron/backend/imap"
-	"github.com/emersion/neutron/backend/smtp"
-	"github.com/emersion/neutron/backend/disk"
-	"github.com/emersion/neutron/router/api"
+	"github.com/Corrector1374/neutron/config"
+	"github.com/Corrector1374/neutron/backend"
+	"github.com/Corrector1374/neutron/backend/memory"
+	"github.com/Corrector1374/neutron/backend/imap"
+	"github.com/Corrector1374/neutron/backend/smtp"
+	"github.com/Corrector1374/neutron/backend/disk"
+	"github.com/Corrector1374/neutron/router/api"
 )
 
 const (

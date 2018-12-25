@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/emersion/neutron/backend"
+	"github.com/Corrector1374/neutron/backend"
 )
 
 // A conversations backend that builds one conversation per message (no threads).

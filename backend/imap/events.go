@@ -3,8 +3,8 @@ package imap
 import (
 	"errors"
 
-	"github.com/emersion/neutron/backend"
-	"github.com/emersion/go-imap"
+	"github.com/Corrector1374/neutron/backend"
+	"github.com/Corrector1374/go-imap"
 )
 
 type Events struct {

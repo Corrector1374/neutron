@@ -3,8 +3,8 @@ package imap
 import (
 	"errors"
 
-	"github.com/emersion/neutron/backend"
-	"github.com/emersion/go-imap-quota"
+	"github.com/Corrector1374/neutron/backend"
+	"github.com/Corrector1374/go-imap-quota"
 )
 
 // IMAP backend cannot upate users, so when requesting to update it will just return silently.
